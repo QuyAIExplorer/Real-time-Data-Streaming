@@ -6,7 +6,7 @@ This project aims to build an end-to-end data engineering pipeline. Through this
 
 ## System Architecture
 
-![System Architecture](https://github.com/airscholar/e2e-data-engineering/blob/main/Data%20engineering%20architecture.png)
+![System Architecture](https://github.com/QuyAIExplorer/Real-time-Data-Streaming/blob/main/Data%20engineering%20architecture.png)
 
 The project is designed with the following components:
 
@@ -48,5 +48,3 @@ The project is designed with the following components:
     ```bash
     docker-compose up
     ```
-
-For more detailed instructions, please check out the video tutorial linked below.
